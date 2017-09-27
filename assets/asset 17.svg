@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <path fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M56.4,61.3 C66.9,60,66.4,43,74.9,43"/>
+  <path fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M29.3,55.7 C39.9,56,41.9,62,50.4,61.3"/>
+  <path fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M4.9,66 c8.5,0,7-8,18.4-10.1"/>
+  <circle fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="26.1" cy="56" r="3"/>
+  <circle fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="53.1" cy="61" r="3"/>
+  <path fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M62.9,31c0,5.5-4.5,10-10,10c-5.5,0-10-4.5-10-10c0-5.5,4.5-10,10-10c0,2.9,0,10,0,10S59.3,31,62.9,31z"/>
+  <path fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M66.9,27c0-5.5-4.5-10-10-10c0,3.6,0,4.5,0,10H66.9z"/>
+  <path fill="none" stroke="#2E3B4E" stroke-width="2" stroke-miterlimit="10" d="M75,71c0,2.2-1.8,4-4,4H9c-2.2,0-4-1.8-4-4V9 c0-2.2,1.8-4,4-4h62c2.2,0,4,1.8,4,4V71z"/>
+  <polyline fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="22.9,41 22.9,19 16.9,19 16.9,41 34.9,41 34.9,25 28.9,25 28.9,41"/>
+  <polyline fill="none" stroke="#2E3B4E" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" points="22.9,41 22.9,31 28.9,31 28.9,41"/>
+</svg>
